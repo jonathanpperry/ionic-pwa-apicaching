@@ -1,0 +1,7 @@
+{
+  "name": "pwa-apicaching",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
